@@ -1,0 +1,5 @@
+#Steps to start Node project
+1. npm install express-generator -g
+2. express --view=ejs myapp
+3. npm install
+4. npm start
